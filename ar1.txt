@@ -1,3 +1,3 @@
-ar v6 en main
+ar v7 en main
 
 agregamos una funcionalidad nueva sin tocar el main
