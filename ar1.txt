@@ -1,1 +1,1 @@
-ar v11 en main desde local
+ar v11 en main desde local y ademas fucionado con v11 de github
