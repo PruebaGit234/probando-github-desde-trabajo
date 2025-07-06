@@ -1,3 +1,2 @@
-let name = "Myname + nothing + work";
-
+let name = "Myname + nothing + personal + work"
 console.log(name)
